@@ -9,6 +9,7 @@ on:
   release:
     types: released
 
+
 jobs:
   build:
     name: Build
